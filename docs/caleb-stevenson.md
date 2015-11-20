@@ -1,4 +1,9 @@
-Caleb Stevenson
-Michigan, USA
-Mashed Potatoes
-Ultimate Frisbee
+**Name**: Caleb Stevenson
+
+**From**: Michigan, USA
+
+**Favorite Food**: Mashed Potatoes
+
+**Favorite Color**: Red
+
+**Hobby**: Ultimate Frisbee
